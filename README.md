@@ -3,21 +3,15 @@
 - **Discipline:** Programming for Mobile Devices
 - **Teacher:** Junio Moreira
 - **Student:** João Augusto Marciano Silva
-- **Final date:** 16/11/2025
+- **Final date:** 18/11/2025
 
 ## Application operation
 
-### Light mode
-
-| List Screen (with Sort Menu) | Edit Screen | Add Task Modal |
-|:---:|:---:|:---:|
-| <img height="500" alt="List Screen Light" src="[YOUR_SCREENSHOT_URL_HERE]" /> | <img height="500" alt="Edit Screen Light" src="[YOUR_SCREENSHOT_URL_HERE]" /> | <img height="500" alt="Add Task Modal Light" src="[YOUR_SCREENSHOT_URL_HERE]" /> |
-
 ### Dark mode
 
-| List Screen (Searching) | Edit Screen | Add Task Modal |
-|:---:|:---:|:---:|
-| <img height="500" alt="List Screen Dark" src="[YOUR_SCREENSHOT_URL_HERE]" /> | <img height="500" alt="Edit Screen Dark" src="[YOUR_SCREENSHOT_URL_HERE]" /> | <img height="500" alt="Add Task Modal Dark" src="[YOUR_SCREENSHOT_URL_HERE]" /> |
+| List Screen (All) | List Screen (Searching) |  Add Task Modal | Edit Task Screen | Order List |
+|:---:|:---:|:---:|:---:|:---:|
+| <img height="500" alt="Searching List Screen Dark" src="https://github.com/user-attachments/assets/d91530ff-f034-487e-a49b-86e36b26c777" /> | <img height="500" alt="All List Screen Dark" src="https://github.com/user-attachments/assets/8290bf5e-ac45-4ae3-a16b-ca9395159e00" /> | <img height="500" alt="Add Task Screen Dark" src="https://github.com/user-attachments/assets/5f83bb52-3b73-48b8-9820-109c011e1662" /> | <img height="500" alt="Edit Screen Dark" src="https://github.com/user-attachments/assets/065faf35-f2d6-48e4-adab-f08a0bf9a8c9" /> | <img height="500" alt="Order Screen Dark" src="https://github.com/user-attachments/assets/f4746b4d-1fc6-4775-a809-defd472cf528" /> |
 
 ## Features
 
